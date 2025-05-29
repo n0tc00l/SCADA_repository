@@ -13252,7 +13252,7 @@
        style="display:inline">
 	   <linearGradient		
 			class="scadaTubeLinear"
-			data-tagname="T01"
+			data-tagname="Z30"
 			data-visible-value="2"
 			id="linearGradientLocalColorT1"
 			href="#linearGradientGrayColor">
@@ -13285,7 +13285,7 @@
 
 		<radialGradient
 			class="scadaTubeRadial"
-			data-tagname="T01"
+			data-tagname="Z30"
 			data-visible-value="2"
 			
 			id="radialGradientT1"
@@ -13751,20 +13751,11 @@
          id="path17-4-0-3" />
     </g>
     <g
-       id="Z31_vlve01"
+       id="Z31_vlv01"
        transform="matrix(-0.13707305,0,0,0.14372183,48.774032,103.82317)"
-       inkscape:label="Z31_vlv01"
-       >
-       <rect
-  x="470" y="32"
-  width="3000" height="4000"
-  fill="blue"
-  style="fill:blue"
-  pointer-events="all"
-/>    
-     
+       inkscape:label="Z31_vlv01">
       <title
-         id="title42">Z-31____</title>
+         id="title42">Z-31</title>
       <g
          id="g5-4-7-3">
         <defs
@@ -14149,7 +14140,7 @@
 	   
 	   <linearGradient		
 			class="scadaTubeLinear"
-			data-tagname="T12"
+			data-tagname="Z30"
 			data-visible-value="2"
 			id="linearGradientLocalColorT12"
 			href="#linearGradientGrayColor">
@@ -14217,7 +14208,7 @@
 		   
         <radialGradient
 			class="scadaTubeRadial"
-			data-tagname="T12"
+			data-tagname="Z30"
 			data-visible-value="2"
 			
 			id="radialGradientT12"
@@ -14280,7 +14271,7 @@
 	   
 	   <linearGradient		
 			class="scadaTubeLinear"
-			data-tagname="T11"
+			data-tagname="Z23"
 			data-visible-value="2"
 			id="linearGradientLocalColorT11"
 			href="#linearGradientGrayColor">
@@ -14338,7 +14329,7 @@
 		   
         <radialGradient
 			class="scadaTubeRadial"
-			data-tagname="T11"
+			data-tagname="Z23"
 			data-visible-value="2"
 			
 			id="radialGradientT11"
@@ -14690,7 +14681,7 @@
 	   
 	   <linearGradient		
 			class="scadaTubeLinear"
-			data-tagname="T06"
+			data-tagname="Z34"
 			data-visible-value="2"
 			id="linearGradientLocalColorT6"
 			href="#linearGradientGrayColor">
@@ -14716,7 +14707,7 @@
 		
 		<radialGradient
 			class="scadaTubeRadial"
-			data-tagname="T06"
+			data-tagname="Z34"
 			data-visible-value="2"
 			
 			id="radialGradientT6_RT"
@@ -14731,7 +14722,7 @@
 		
 				<radialGradient
 			class="scadaTubeRadial"
-			data-tagname="T06"
+			data-tagname="Z34"
 			data-visible-value="2"
 			
 			id="radialGradientT6_LT"
@@ -14746,7 +14737,7 @@
 		
 				<radialGradient
 			class="scadaTubeRadial"
-			data-tagname="T06"
+			data-tagname="Z34"
 			data-visible-value="2"
 			
 			id="radialGradientT6_LB"
@@ -14761,7 +14752,7 @@
 		
 				<radialGradient
 			class="scadaTubeRadial"
-			data-tagname="T06"
+			data-tagname="Z34"
 			data-visible-value="2"
 			
 			id="radialGradientT6_RB"
@@ -15302,7 +15293,7 @@
 	   
 	   <linearGradient		
 			class="scadaTubeLinear"
-			data-tagname="T03"
+			data-tagname="Z11"
 			data-visible-value="2"
 			id="linearGradientLocalColorT3"
 			href="#linearGradientGrayColor">
@@ -15328,7 +15319,7 @@
 		
 		<radialGradient
 			class="scadaTubeRadial"
-			data-tagname="T03"
+			data-tagname="Z11"
 			data-visible-value="2"
 			
 			id="radialGradientT3_RT"
@@ -15343,7 +15334,7 @@
 		
 				<radialGradient
 			class="scadaTubeRadial"
-			data-tagname="T03"
+			data-tagname="Z11"
 			data-visible-value="2"
 			
 			id="radialGradientT3_LT"
@@ -15358,7 +15349,7 @@
 		
 				<radialGradient
 			class="scadaTubeRadial"
-			data-tagname="T03"
+			data-tagname="Z11"
 			data-visible-value="2"
 			
 			id="radialGradientT3_LB"
@@ -15373,7 +15364,7 @@
 		
 				<radialGradient
 			class="scadaTubeRadial"
-			data-tagname="T03"
+			data-tagname="Z11"
 			data-visible-value="2"
 			
 			id="radialGradientT3_RB"
@@ -15604,7 +15595,7 @@
        style="display:inline">
 	   <linearGradient		
 			class="scadaTubeLinear"
-			data-tagname="T02"
+			data-tagname="Z32"
 			data-visible-value="2"
 			id="linearGradientLocalColorT2"
 			href="#linearGradientGrayColor">
@@ -15681,7 +15672,7 @@
 		   
 		<radialGradient
 			class="scadaTubeRadial"
-			data-tagname="T02"
+			data-tagname="Z32"
 			data-visible-value="2"
 			
 			id="radialGradientT2"
@@ -15737,7 +15728,7 @@
 	   
 	   <linearGradient		
 			class="scadaTubeLinear"
-			data-tagname="T04"	
+			data-tagname="Z26"	
 			data-visible-value="2"
 			id="linearGradientLocalColorT4"
 			href="#linearGradientGrayColor">
@@ -15820,7 +15811,7 @@
 	   
 	   <linearGradient		
 			class="scadaTubeLinear"
-			data-tagname="T05"
+			data-tagname="Z11"
 			data-visible-value="2"
 			id="linearGradientLocalColorT5"
 			href="#linearGradientGrayColor">
@@ -15846,7 +15837,7 @@
 		
 		<radialGradient
 			class="scadaTubeRadial"
-			data-tagname="T05"
+			data-tagname="Z11"
 			data-visible-value="2"
 			
 			id="radialGradientT5_RT"
@@ -15861,7 +15852,7 @@
 		
 				<radialGradient
 			class="scadaTubeRadial"
-			data-tagname="T05"
+			data-tagname="Z11"
 			data-visible-value="2"
 			
 			id="radialGradientT5_LT"
@@ -15876,7 +15867,7 @@
 		
 				<radialGradient
 			class="scadaTubeRadial"
-			data-tagname="T05"
+			data-tagname="Z11"
 			data-visible-value="2"
 			
 			id="radialGradientT5_LB"
@@ -15891,7 +15882,7 @@
 		
 				<radialGradient
 			class="scadaTubeRadial"
-			data-tagname="T05"
+			data-tagname="Z11"
 			data-visible-value="2"
 			
 			id="radialGradientT5_RB"
@@ -16120,7 +16111,7 @@
        style="display:inline">
 		<linearGradient		
 			class="scadaTubeLinear"
-			data-tagname="T10"
+			data-tagname="Z28"
 			data-visible-value="2"
 			id="linearGradientLocalColorT10"
 			href="#linearGradientGrayColor">
@@ -16197,7 +16188,7 @@
 		   
         <radialGradient
 			class="scadaTubeRadial"
-			data-tagname="T10"
+			data-tagname="Z28"
 			data-visible-value="2"
 			
 			id="radialGradientT10"
@@ -16255,7 +16246,7 @@
          transform="matrix(0.13407409,0,0,-0.13433966,19.617772,123.83772)">
 		<linearGradient		
 			class="scadaTubeLinear"
-			data-tagname="T07"	
+			data-tagname="Z31"	
 			data-visible-value="2"
 			id="linearGradientLocalColorT7"
 			href="#linearGradientGrayColor">
@@ -16489,7 +16480,7 @@
 	   
 	   <linearGradient		
 			class="scadaTubeLinear"
-			data-tagname="T08"	
+			data-tagname="Z25"	
 			data-visible-value="2"
 			id="linearGradientLocalColorT8"
 			href="#linearGradientGrayColor">
@@ -17738,31 +17729,48 @@
          d="M 0,60.393 51.834,86.49 0,112.97 V 60.393"
          id="path11-2-6-4-8-6-9-3-0" />
     </g>
-	
-	<g
-         id="Z2_vlv02">
-		<g
-		   id="Z2_1"
-		   transform="matrix(-0.05890217,0,0,0.06175924,112.81295,93.017161)"
-		   inkscape:label="Z2_1">
-		  <title
-			 id="title57">Z-2_1</title>
-		  <path
-			 d="m 102.744,60.393 -51.835,26.096 51.835,26.48 V 60.393"
-			 id="path17-4-0-33-3-9-9-3" />
-		</g>
-		<g
-		   id="Z2_2"
-		   transform="matrix(-0.05890217,0,0,0.06175924,112.81295,93.017161)"
-		   inkscape:label="Z2_2">
-		  <title
-			 id="title58">Z-2_2</title>
-		  <path
-			 d="M 0,60.393 51.834,86.49 0,112.97 V 60.393"
-			 id="path11-2-6-4-8-6-9-3" />
-		</g>
-	</g>
-	
+    <g
+       id="Z2_2"
+       transform="matrix(-0.05890217,0,0,0.06175924,112.81295,93.017161)"
+       inkscape:label="Z2_2">
+      <title
+         id="title58">Z-2_2</title>
+      <linearGradient
+         id="linearGradient512"
+         gradientUnits="userSpaceOnUse"
+         x1="25.917"
+         y1="112.9697"
+         x2="25.917"
+         y2="60.392601">
+        <stop
+           offset="0"
+           style="stop-color:#383838"
+           id="stop34-5-3-9-7-6-2" />
+        <stop
+           offset="0.45"
+           style="stop-color:#ECECEC"
+           id="stop35-0-3-0-2-1-6" />
+        <stop
+           offset="0.55"
+           style="stop-color:#D9D9D9"
+           id="stop36-2-4-4-8-1-1" />
+        <stop
+           offset="0.76"
+           style="stop-color:#A8A8A8"
+           id="stop37-8-28-9-0-7-6" />
+        <stop
+           offset="0.77"
+           style="stop-color:#A6A6A6"
+           id="stop38-1-0-3-8-8-0" />
+        <stop
+           offset="1"
+           style="stop-color:#383838"
+           id="stop39-8-0-3-9-0-3" />
+      </linearGradient>
+      <path
+         d="M 0,60.393 51.834,86.49 0,112.97 V 60.393"
+         id="path11-2-6-4-8-6-9-3" />
+    </g>
     <g
        id="Z2_1-1"
        transform="matrix(-0.05890217,0,0,0.06175924,112.81299,93.017171)"
@@ -17803,7 +17811,48 @@
          d="m 102.744,60.393 -51.835,26.096 51.835,26.48 V 60.393"
          id="path17-4-0-33-3-9-9-3-0" />
     </g>
-	
+    <g
+       id="Z2_1"
+       transform="matrix(-0.05890217,0,0,0.06175924,112.81295,93.017161)"
+       inkscape:label="Z2_1">
+      <title
+         id="title57">Z-2_1</title>
+      <linearGradient
+         id="linearGradient513"
+         gradientUnits="userSpaceOnUse"
+         x1="76.826202"
+         y1="112.9697"
+         x2="76.826202"
+         y2="60.392601">
+        <stop
+           offset="0"
+           style="stop-color:#383838"
+           id="stop40-5-3-0-2-0-8" />
+        <stop
+           offset="0.45"
+           style="stop-color:#ECECEC"
+           id="stop41-3-4-5-8-3-9" />
+        <stop
+           offset="0.55"
+           style="stop-color:#D9D9D9"
+           id="stop42-4-3-71-7-8-3" />
+        <stop
+           offset="0.76"
+           style="stop-color:#A8A8A8"
+           id="stop43-1-8-3-4-8-7" />
+        <stop
+           offset="0.77"
+           style="stop-color:#A6A6A6"
+           id="stop44-2-6-8-3-5-3" />
+        <stop
+           offset="1"
+           style="stop-color:#383838"
+           id="stop45-7-7-9-0-3-0" />
+      </linearGradient>
+      <path
+         d="m 102.744,60.393 -51.835,26.096 51.835,26.48 V 60.393"
+         id="path17-4-0-33-3-9-9-3" />
+    </g>
     <g
        id="g302-9-6-5"
        transform="matrix(-0.03033734,0,0,0.03325332,146.31172,58.944945)">
@@ -22907,7 +22956,48 @@
          d="M 0,60.393 51.834,86.49 0,112.97 V 60.393"
          id="path11-2-6-4-8-6-5-7-5-1" />
     </g>
-
+    <g
+       id="Z19d_2"
+       transform="matrix(-0.03435304,0,0,0.03485985,160.59713,15.052757)"
+       inkscape:label="Z19d_2">
+      <title
+         id="title75">Z-19d_2</title>
+      <linearGradient
+         id="linearGradient722"
+         gradientUnits="userSpaceOnUse"
+         x1="25.917"
+         y1="112.9697"
+         x2="25.917"
+         y2="60.392601">
+        <stop
+           offset="0"
+           style="stop-color:#383838"
+           id="stop34-5-3-9-7-5-6-4" />
+        <stop
+           offset="0.45"
+           style="stop-color:#ECECEC"
+           id="stop35-0-3-0-2-2-8-4" />
+        <stop
+           offset="0.55"
+           style="stop-color:#D9D9D9"
+           id="stop36-2-4-4-8-7-3-2" />
+        <stop
+           offset="0.76"
+           style="stop-color:#A8A8A8"
+           id="stop37-8-28-9-0-71-1-3" />
+        <stop
+           offset="0.77"
+           style="stop-color:#A6A6A6"
+           id="stop38-1-0-3-8-1-6-9" />
+        <stop
+           offset="1"
+           style="stop-color:#383838"
+           id="stop39-8-0-3-9-2-4-9" />
+      </linearGradient>
+      <path
+         d="M 0,60.393 51.834,86.49 0,112.97 V 60.393"
+         id="path11-2-6-4-8-6-5-7-5" />
+    </g>
     <g
        id="Z19d_1-9"
        transform="matrix(-0.03435304,0,0,0.03485985,160.59713,15.052757)"
@@ -22950,29 +23040,48 @@
          d="m 102.744,60.393 -51.835,26.096 51.835,26.48 V 60.393"
          id="path17-4-0-33-3-9-0-8-3-29" />
     </g>
-	<g
-         id="Z19d_vlv02">
-		<g
-		   id="Z19d_1"
-		   transform="matrix(-0.03435304,0,0,0.03485985,160.59713,15.052757)"
-		   inkscape:label="Z19d_1">
-		  <title
-			 id="title74">Z-19d_1</title>
-		  <path
-			 d="m 102.744,60.393 -51.835,26.096 51.835,26.48 V 60.393"
-			 id="path17-4-0-33-3-9-0-8-3" />
-		</g>
-		<g
-		   id="Z19d_2"
-		   transform="matrix(-0.03435304,0,0,0.03485985,160.59713,15.052757)"
-		   inkscape:label="Z19d_2">
-		  <title
-			 id="title75">Z-19d_2</title>
-		  <path
-			 d="M 0,60.393 51.834,86.49 0,112.97 V 60.393"
-			 id="path11-2-6-4-8-6-5-7-5" />
-		</g>
-	</g>
+    <g
+       id="Z19d_1"
+       transform="matrix(-0.03435304,0,0,0.03485985,160.59713,15.052757)"
+       inkscape:label="Z19d_1">
+      <title
+         id="title74">Z-19d_1</title>
+      <linearGradient
+         id="linearGradient723"
+         gradientUnits="userSpaceOnUse"
+         x1="76.826202"
+         y1="112.9697"
+         x2="76.826202"
+         y2="60.392601">
+        <stop
+           offset="0"
+           style="stop-color:#383838"
+           id="stop40-5-3-0-2-4-5-2" />
+        <stop
+           offset="0.45"
+           style="stop-color:#ECECEC"
+           id="stop41-3-4-5-8-8-8-0" />
+        <stop
+           offset="0.55"
+           style="stop-color:#D9D9D9"
+           id="stop42-4-3-71-7-6-9-7" />
+        <stop
+           offset="0.76"
+           style="stop-color:#A8A8A8"
+           id="stop43-1-8-3-4-2-8-4" />
+        <stop
+           offset="0.77"
+           style="stop-color:#A6A6A6"
+           id="stop44-2-6-8-3-4-1-3" />
+        <stop
+           offset="1"
+           style="stop-color:#383838"
+           id="stop45-7-7-9-0-7-1-6" />
+      </linearGradient>
+      <path
+         d="m 102.744,60.393 -51.835,26.096 51.835,26.48 V 60.393"
+         id="path17-4-0-33-3-9-0-8-3" />
+    </g>
     <g
        id="Group_Horizonatal_Short-2-3-9-4-2-3-7"
        transform="matrix(0.03674036,0,0,-0.06181175,152.93428,19.006185)">
@@ -23114,7 +23223,48 @@
          d="M 0,60.393 51.834,86.49 0,112.97 V 60.393"
          id="path11-2-6-4-8-6-5-7-5-6-7" />
     </g>
-
+    <g
+       id="Z17d_2"
+       transform="matrix(-0.03435304,0,0,0.03485985,159.5466,37.916772)"
+       inkscape:label="Z17d_2">
+      <title
+         id="title77">Z-17d_2</title>
+      <linearGradient
+         id="linearGradient736"
+         gradientUnits="userSpaceOnUse"
+         x1="25.917"
+         y1="112.9697"
+         x2="25.917"
+         y2="60.392601">
+        <stop
+           offset="0"
+           style="stop-color:#383838"
+           id="stop34-5-3-9-7-5-6-4-1" />
+        <stop
+           offset="0.45"
+           style="stop-color:#ECECEC"
+           id="stop35-0-3-0-2-2-8-4-3" />
+        <stop
+           offset="0.55"
+           style="stop-color:#D9D9D9"
+           id="stop36-2-4-4-8-7-3-2-8" />
+        <stop
+           offset="0.76"
+           style="stop-color:#A8A8A8"
+           id="stop37-8-28-9-0-71-1-3-6" />
+        <stop
+           offset="0.77"
+           style="stop-color:#A6A6A6"
+           id="stop38-1-0-3-8-1-6-9-8" />
+        <stop
+           offset="1"
+           style="stop-color:#383838"
+           id="stop39-8-0-3-9-2-4-9-4" />
+      </linearGradient>
+      <path
+         d="M 0,60.393 51.834,86.49 0,112.97 V 60.393"
+         id="path11-2-6-4-8-6-5-7-5-6" />
+    </g>
     <g
        id="Z17d_1-6"
        transform="matrix(-0.03435304,0,0,0.03485985,159.5466,37.916771)"
@@ -23157,29 +23307,48 @@
          d="m 102.744,60.393 -51.835,26.096 51.835,26.48 V 60.393"
          id="path17-4-0-33-3-9-0-8-3-2-1" />
     </g>
-	<g
-         id="Z17d_vlv02">
-		<g
-		   id="Z17d_1"
-		   transform="matrix(-0.03435304,0,0,0.03485985,159.5466,37.916772)"
-		   inkscape:label="Z17d_1">
-		  <title
-			 id="title76">Z-17d_1</title>
-		  <path
-			 d="m 102.744,60.393 -51.835,26.096 51.835,26.48 V 60.393"
-			 id="path17-4-0-33-3-9-0-8-3-2" />
-		</g>
-		<g
-		   id="Z17d_2"
-		   transform="matrix(-0.03435304,0,0,0.03485985,159.5466,37.916772)"
-		   inkscape:label="Z17d_2">
-		  <title
-			 id="title77">Z-17d_2</title>
-		  <path
-			 d="M 0,60.393 51.834,86.49 0,112.97 V 60.393"
-			 id="path11-2-6-4-8-6-5-7-5-6" />
-		</g>
-	</g>
+    <g
+       id="Z17d_1"
+       transform="matrix(-0.03435304,0,0,0.03485985,159.5466,37.916772)"
+       inkscape:label="Z17d_1">
+      <title
+         id="title76">Z-17d_1</title>
+      <linearGradient
+         id="linearGradient737"
+         gradientUnits="userSpaceOnUse"
+         x1="76.826202"
+         y1="112.9697"
+         x2="76.826202"
+         y2="60.392601">
+        <stop
+           offset="0"
+           style="stop-color:#383838"
+           id="stop40-5-3-0-2-4-5-2-9" />
+        <stop
+           offset="0.45"
+           style="stop-color:#ECECEC"
+           id="stop41-3-4-5-8-8-8-0-1" />
+        <stop
+           offset="0.55"
+           style="stop-color:#D9D9D9"
+           id="stop42-4-3-71-7-6-9-7-3" />
+        <stop
+           offset="0.76"
+           style="stop-color:#A8A8A8"
+           id="stop43-1-8-3-4-2-8-4-1" />
+        <stop
+           offset="0.77"
+           style="stop-color:#A6A6A6"
+           id="stop44-2-6-8-3-4-1-3-0" />
+        <stop
+           offset="1"
+           style="stop-color:#383838"
+           id="stop45-7-7-9-0-7-1-6-1" />
+      </linearGradient>
+      <path
+         d="m 102.744,60.393 -51.835,26.096 51.835,26.48 V 60.393"
+         id="path17-4-0-33-3-9-0-8-3-2" />
+    </g>
     <g
        id="Group_Horizonatal_Short-2-3-9-4-2-3-7-3"
        transform="matrix(0.03989885,0,0,-0.06181175,151.52843,41.870195)">
@@ -23930,7 +24099,48 @@
          d="M 0,60.393 51.834,86.49 0,112.97 V 60.393"
          id="path11-2-6-4-8-6-5-7-5-8-5" />
     </g>
-
+    <g
+       id="Z20d_2"
+       transform="matrix(-0.03435304,0,0,0.03485985,64.763995,20.424824)"
+       inkscape:label="Z20d_2">
+      <title
+         id="title71">Z-20d_2</title>
+      <linearGradient
+         id="linearGradient764"
+         gradientUnits="userSpaceOnUse"
+         x1="25.917"
+         y1="112.9697"
+         x2="25.917"
+         y2="60.392601">
+        <stop
+           offset="0"
+           style="stop-color:#383838"
+           id="stop34-5-3-9-7-5-6-4-6" />
+        <stop
+           offset="0.45"
+           style="stop-color:#ECECEC"
+           id="stop35-0-3-0-2-2-8-4-8" />
+        <stop
+           offset="0.55"
+           style="stop-color:#D9D9D9"
+           id="stop36-2-4-4-8-7-3-2-0" />
+        <stop
+           offset="0.76"
+           style="stop-color:#A8A8A8"
+           id="stop37-8-28-9-0-71-1-3-67" />
+        <stop
+           offset="0.77"
+           style="stop-color:#A6A6A6"
+           id="stop38-1-0-3-8-1-6-9-89" />
+        <stop
+           offset="1"
+           style="stop-color:#383838"
+           id="stop39-8-0-3-9-2-4-9-44" />
+      </linearGradient>
+      <path
+         d="M 0,60.393 51.834,86.49 0,112.97 V 60.393"
+         id="path11-2-6-4-8-6-5-7-5-8" />
+    </g>
     <g
        id="Z20d_1-6"
        transform="matrix(-0.03435304,0,0,0.03485985,64.763994,20.424824)"
@@ -23971,31 +24181,48 @@
          d="m 102.744,60.393 -51.835,26.096 51.835,26.48 V 60.393"
          id="path17-4-0-33-3-9-0-8-3-5-0" />
     </g>
-	
-	<g
-         id="Z20d_vlv02">
-		<g
-		   id="Z20d_1"
-		   transform="matrix(-0.03435304,0,0,0.03485985,64.763995,20.424824)"
-		   inkscape:label="Z20d_1">
-		  <title
-			 id="title70">Z-20d_1</title>
-		  <path
-			 d="m 102.744,60.393 -51.835,26.096 51.835,26.48 V 60.393"
-			 id="path17-4-0-33-3-9-0-8-3-5" />
-		</g>
-		<g
-		   id="Z20d_2"
-		   transform="matrix(-0.03435304,0,0,0.03485985,64.763995,20.424824)"
-		   inkscape:label="Z20d_2">
-		  <title
-			 id="title71">Z-20d_2</title>
-		  <path
-			 d="M 0,60.393 51.834,86.49 0,112.97 V 60.393"
-			 id="path11-2-6-4-8-6-5-7-5-8" />
-		</g>
-	</g>
-	
+    <g
+       id="Z20d_1"
+       transform="matrix(-0.03435304,0,0,0.03485985,64.763995,20.424824)"
+       inkscape:label="Z20d_1">
+      <title
+         id="title70">Z-20d_1</title>
+      <linearGradient
+         id="linearGradient765"
+         gradientUnits="userSpaceOnUse"
+         x1="76.826202"
+         y1="112.9697"
+         x2="76.826202"
+         y2="60.392601">
+        <stop
+           offset="0"
+           style="stop-color:#383838"
+           id="stop40-5-3-0-2-4-5-2-4" />
+        <stop
+           offset="0.45"
+           style="stop-color:#ECECEC"
+           id="stop41-3-4-5-8-8-8-0-5" />
+        <stop
+           offset="0.55"
+           style="stop-color:#D9D9D9"
+           id="stop42-4-3-71-7-6-9-7-7" />
+        <stop
+           offset="0.76"
+           style="stop-color:#A8A8A8"
+           id="stop43-1-8-3-4-2-8-4-7" />
+        <stop
+           offset="0.77"
+           style="stop-color:#A6A6A6"
+           id="stop44-2-6-8-3-4-1-3-3" />
+        <stop
+           offset="1"
+           style="stop-color:#383838"
+           id="stop45-7-7-9-0-7-1-6-7" />
+      </linearGradient>
+      <path
+         d="m 102.744,60.393 -51.835,26.096 51.835,26.48 V 60.393"
+         id="path17-4-0-33-3-9-0-8-3-5" />
+    </g>
     <g
        id="Group_Horizonatal_Short-2-3-9-4-2-3-7-7"
        transform="matrix(0.0195996,0,0,-0.06181175,59.029492,24.378255)">
@@ -24104,7 +24331,48 @@
          d="M 0,60.393 51.834,86.49 0,112.97 V 60.393"
          id="path11-2-6-4-8-6-5-7-5-8-7-3" />
     </g>
-
+    <g
+       id="Z18d_2"
+       transform="matrix(-0.03435304,0,0,0.03485985,66.184397,40.672328)"
+       inkscape:label="Z18d_2">
+      <title
+         id="title73">Z-18d_2</title>
+      <linearGradient
+         id="linearGradient786"
+         gradientUnits="userSpaceOnUse"
+         x1="25.917"
+         y1="112.9697"
+         x2="25.917"
+         y2="60.392601">
+        <stop
+           offset="0"
+           style="stop-color:#383838"
+           id="stop34-5-3-9-7-5-6-4-6-7" />
+        <stop
+           offset="0.45"
+           style="stop-color:#ECECEC"
+           id="stop35-0-3-0-2-2-8-4-8-4" />
+        <stop
+           offset="0.55"
+           style="stop-color:#D9D9D9"
+           id="stop36-2-4-4-8-7-3-2-0-9" />
+        <stop
+           offset="0.76"
+           style="stop-color:#A8A8A8"
+           id="stop37-8-28-9-0-71-1-3-67-2" />
+        <stop
+           offset="0.77"
+           style="stop-color:#A6A6A6"
+           id="stop38-1-0-3-8-1-6-9-89-6" />
+        <stop
+           offset="1"
+           style="stop-color:#383838"
+           id="stop39-8-0-3-9-2-4-9-44-2" />
+      </linearGradient>
+      <path
+         d="M 0,60.393 51.834,86.49 0,112.97 V 60.393"
+         id="path11-2-6-4-8-6-5-7-5-8-7" />
+    </g>
     <g
        id="Z18d_1-8"
        transform="matrix(-0.03435304,0,0,0.03485985,66.184396,40.672327)"
@@ -24145,29 +24413,48 @@
          d="m 102.744,60.393 -51.835,26.096 51.835,26.48 V 60.393"
          id="path17-4-0-33-3-9-0-8-3-5-4-7" />
     </g>
-	<g
-         id="Z18d_vlv02">
-		<g
-		   id="Z18d_1"
-		   transform="matrix(-0.03435304,0,0,0.03485985,66.184397,40.672328)"
-		   inkscape:label="Z18d_1">
-		  <title
-			 id="title72">Z-18d_1</title>
-		  <path
-			 d="m 102.744,60.393 -51.835,26.096 51.835,26.48 V 60.393"
-			 id="path17-4-0-33-3-9-0-8-3-5-4" />
-		</g>
-		<g
-		   id="Z18d_2"
-		   transform="matrix(-0.03435304,0,0,0.03485985,66.184397,40.672328)"
-		   inkscape:label="Z18d_2">
-		  <title
-			 id="title73">Z-18d_2</title>
-		  <path
-			 d="M 0,60.393 51.834,86.49 0,112.97 V 60.393"
-			 id="path11-2-6-4-8-6-5-7-5-8-7" />
-		</g>
-	</g>
+    <g
+       id="Z18d_1"
+       transform="matrix(-0.03435304,0,0,0.03485985,66.184397,40.672328)"
+       inkscape:label="Z18d_1">
+      <title
+         id="title72">Z-18d_1</title>
+      <linearGradient
+         id="linearGradient787"
+         gradientUnits="userSpaceOnUse"
+         x1="76.826202"
+         y1="112.9697"
+         x2="76.826202"
+         y2="60.392601">
+        <stop
+           offset="0"
+           style="stop-color:#383838"
+           id="stop40-5-3-0-2-4-5-2-4-5" />
+        <stop
+           offset="0.45"
+           style="stop-color:#ECECEC"
+           id="stop41-3-4-5-8-8-8-0-5-4" />
+        <stop
+           offset="0.55"
+           style="stop-color:#D9D9D9"
+           id="stop42-4-3-71-7-6-9-7-7-4" />
+        <stop
+           offset="0.76"
+           style="stop-color:#A8A8A8"
+           id="stop43-1-8-3-4-2-8-4-7-6" />
+        <stop
+           offset="0.77"
+           style="stop-color:#A6A6A6"
+           id="stop44-2-6-8-3-4-1-3-3-2" />
+        <stop
+           offset="1"
+           style="stop-color:#383838"
+           id="stop45-7-7-9-0-7-1-6-7-5" />
+      </linearGradient>
+      <path
+         d="m 102.744,60.393 -51.835,26.096 51.835,26.48 V 60.393"
+         id="path17-4-0-33-3-9-0-8-3-5-4" />
+    </g>
     <g
        id="Group_Horizonatal_Short-2-3-9-4-2-3-7-7-2"
        transform="matrix(0.03562293,0,0,-0.06181175,58.647272,44.625755)">
@@ -29031,7 +29318,48 @@
          d="M 0,60.393 51.834,86.49 0,112.97 V 60.393"
          id="path11-2-6-4-8-6-5-7-55-1-8" />
     </g>
-
+    <g
+       id="Z25d_2"
+       transform="matrix(-0.03435304,0,0,0.03485985,137.16692,52.184712)"
+       inkscape:label="Z25d_2">
+      <title
+         id="title103">Z-25d_2</title>
+      <linearGradient
+         id="linearGradient873"
+         gradientUnits="userSpaceOnUse"
+         x1="25.917"
+         y1="112.9697"
+         x2="25.917"
+         y2="60.392601">
+        <stop
+           offset="0"
+           style="stop-color:#383838"
+           id="stop34-5-3-9-7-5-6-8-8" />
+        <stop
+           offset="0.45"
+           style="stop-color:#ECECEC"
+           id="stop35-0-3-0-2-2-8-9-8" />
+        <stop
+           offset="0.55"
+           style="stop-color:#D9D9D9"
+           id="stop36-2-4-4-8-7-3-4-2" />
+        <stop
+           offset="0.76"
+           style="stop-color:#A8A8A8"
+           id="stop37-8-28-9-0-71-1-2-9" />
+        <stop
+           offset="0.77"
+           style="stop-color:#A6A6A6"
+           id="stop38-1-0-3-8-1-6-90-1" />
+        <stop
+           offset="1"
+           style="stop-color:#383838"
+           id="stop39-8-0-3-9-2-4-8-14" />
+      </linearGradient>
+      <path
+         d="M 0,60.393 51.834,86.49 0,112.97 V 60.393"
+         id="path11-2-6-4-8-6-5-7-55-1" />
+    </g>
     <g
        id="Z25d_1-9"
        transform="matrix(-0.03435304,0,0,0.03485985,137.16692,52.184713)"
@@ -29072,29 +29400,48 @@
          d="m 102.744,60.393 -51.835,26.096 51.835,26.48 V 60.393"
          id="path17-4-0-33-3-9-0-8-9-8-36" />
     </g>
-	<g
-         id="Z25d_vlv02">
-		<g
-		   id="Z25d_1"
-		   transform="matrix(-0.03435304,0,0,0.03485985,137.16692,52.184712)"
-		   inkscape:label="Z25d_1">
-		  <title
-			 id="title102">Z-25d_1</title>
-		  <path
-			 d="m 102.744,60.393 -51.835,26.096 51.835,26.48 V 60.393"
-			 id="path17-4-0-33-3-9-0-8-9-8" />
-		</g>
-		<g
-		   id="Z25d_2"
-		   transform="matrix(-0.03435304,0,0,0.03485985,137.16692,52.184712)"
-		   inkscape:label="Z25d_2">
-		  <title
-			 id="title103">Z-25d_2</title>
-		  <path
-			 d="M 0,60.393 51.834,86.49 0,112.97 V 60.393"
-			 id="path11-2-6-4-8-6-5-7-55-1" />
-		</g>
-	</g>
+    <g
+       id="Z25d_1"
+       transform="matrix(-0.03435304,0,0,0.03485985,137.16692,52.184712)"
+       inkscape:label="Z25d_1">
+      <title
+         id="title102">Z-25d_1</title>
+      <linearGradient
+         id="linearGradient874"
+         gradientUnits="userSpaceOnUse"
+         x1="76.826202"
+         y1="112.9697"
+         x2="76.826202"
+         y2="60.392601">
+        <stop
+           offset="0"
+           style="stop-color:#383838"
+           id="stop40-5-3-0-2-4-5-9-1" />
+        <stop
+           offset="0.45"
+           style="stop-color:#ECECEC"
+           id="stop41-3-4-5-8-8-8-1-0" />
+        <stop
+           offset="0.55"
+           style="stop-color:#D9D9D9"
+           id="stop42-4-3-71-7-6-9-2-4" />
+        <stop
+           offset="0.76"
+           style="stop-color:#A8A8A8"
+           id="stop43-1-8-3-4-2-8-6-3" />
+        <stop
+           offset="0.77"
+           style="stop-color:#A6A6A6"
+           id="stop44-2-6-8-3-4-1-8-6" />
+        <stop
+           offset="1"
+           style="stop-color:#383838"
+           id="stop45-7-7-9-0-7-1-7-37" />
+      </linearGradient>
+      <path
+         d="m 102.744,60.393 -51.835,26.096 51.835,26.48 V 60.393"
+         id="path17-4-0-33-3-9-0-8-9-8" />
+    </g>
     <g
        id="Group_Horizonatal_Short-2-3-9-4-0-4-0-7-03-7-1-4"
        transform="matrix(0,-0.07940554,-0.01677372,0,131.94314,65.534405)">
@@ -29169,7 +29516,48 @@
          d="M 0,60.393 51.834,86.49 0,112.97 V 60.393"
          id="path11-2-6-4-8-6-5-7-55-1-3-8" />
     </g>
-
+    <g
+       id="Z25.1d_2"
+       transform="matrix(-0.03435304,0,0,0.03485985,137.83948,48.435928)"
+       inkscape:label="Z25.1d_2">
+      <title
+         id="title101">Z-25.1d_2</title>
+      <linearGradient
+         id="linearGradient883"
+         gradientUnits="userSpaceOnUse"
+         x1="25.917"
+         y1="112.9697"
+         x2="25.917"
+         y2="60.392601">
+        <stop
+           offset="0"
+           style="stop-color:#383838"
+           id="stop34-5-3-9-7-5-6-8-8-8" />
+        <stop
+           offset="0.45"
+           style="stop-color:#ECECEC"
+           id="stop35-0-3-0-2-2-8-9-8-8" />
+        <stop
+           offset="0.55"
+           style="stop-color:#D9D9D9"
+           id="stop36-2-4-4-8-7-3-4-2-9" />
+        <stop
+           offset="0.76"
+           style="stop-color:#A8A8A8"
+           id="stop37-8-28-9-0-71-1-2-9-4" />
+        <stop
+           offset="0.77"
+           style="stop-color:#A6A6A6"
+           id="stop38-1-0-3-8-1-6-90-1-4" />
+        <stop
+           offset="1"
+           style="stop-color:#383838"
+           id="stop39-8-0-3-9-2-4-8-14-8" />
+      </linearGradient>
+      <path
+         d="M 0,60.393 51.834,86.49 0,112.97 V 60.393"
+         id="path11-2-6-4-8-6-5-7-55-1-3" />
+    </g>
     <g
        id="Z25.1d_1-3"
        transform="matrix(-0.03435304,0,0,0.03485985,137.83956,48.435927)"
@@ -29210,29 +29598,48 @@
          d="m 102.744,60.393 -51.835,26.096 51.835,26.48 V 60.393"
          id="path17-4-0-33-3-9-0-8-9-8-3-1" />
     </g>
-	<g
-         id="Z251d_vlv02">
-		<g
-		   id="Z251d_1"
-		   transform="matrix(-0.03435304,0,0,0.03485985,137.83948,48.435928)"
-		   inkscape:label="Z251d_1">
-		  <title
-			 id="title100">Z-251d_1</title>
-		  <path
-			 d="m 102.744,60.393 -51.835,26.096 51.835,26.48 V 60.393"
-			 id="path17-4-0-33-3-9-0-8-9-8-3" />
-		</g>
-		<g
-		   id="Z251d_2"
-		   transform="matrix(-0.03435304,0,0,0.03485985,137.83948,48.435928)"
-		   inkscape:label="Z251d_2">
-		  <title
-			 id="title101">Z-251d_2</title>
-		  <path
-			 d="M 0,60.393 51.834,86.49 0,112.97 V 60.393"
-			 id="path11-2-6-4-8-6-5-7-55-1-3" />
-		</g>
-	</g>
+    <g
+       id="Z25.1d_1"
+       transform="matrix(-0.03435304,0,0,0.03485985,137.83948,48.435928)"
+       inkscape:label="Z25.1d_1">
+      <title
+         id="title100">Z-25.1d_1</title>
+      <linearGradient
+         id="linearGradient884"
+         gradientUnits="userSpaceOnUse"
+         x1="76.826202"
+         y1="112.9697"
+         x2="76.826202"
+         y2="60.392601">
+        <stop
+           offset="0"
+           style="stop-color:#383838"
+           id="stop40-5-3-0-2-4-5-9-1-7" />
+        <stop
+           offset="0.45"
+           style="stop-color:#ECECEC"
+           id="stop41-3-4-5-8-8-8-1-0-3" />
+        <stop
+           offset="0.55"
+           style="stop-color:#D9D9D9"
+           id="stop42-4-3-71-7-6-9-2-4-9" />
+        <stop
+           offset="0.76"
+           style="stop-color:#A8A8A8"
+           id="stop43-1-8-3-4-2-8-6-3-6" />
+        <stop
+           offset="0.77"
+           style="stop-color:#A6A6A6"
+           id="stop44-2-6-8-3-4-1-8-6-7" />
+        <stop
+           offset="1"
+           style="stop-color:#383838"
+           id="stop45-7-7-9-0-7-1-7-37-3" />
+      </linearGradient>
+      <path
+         d="m 102.744,60.393 -51.835,26.096 51.835,26.48 V 60.393"
+         id="path17-4-0-33-3-9-0-8-9-8-3" />
+    </g>
     <g
        id="Z25.2d_2-7"
        transform="matrix(-0.03435304,0,0,0.03485985,132.81458,48.435908)"
@@ -29273,7 +29680,48 @@
          d="M 0,60.393 51.834,86.49 0,112.97 V 60.393"
          id="path11-2-6-4-8-6-5-7-55-1-3-5-4" />
     </g>
-
+    <g
+       id="Z25.2d_2"
+       transform="matrix(-0.03435304,0,0,0.03485985,132.81458,48.435907)"
+       inkscape:label="Z25.2d_2">
+      <title
+         id="title99">Z-25.2d_2</title>
+      <linearGradient
+         id="linearGradient885"
+         gradientUnits="userSpaceOnUse"
+         x1="25.917"
+         y1="112.9697"
+         x2="25.917"
+         y2="60.392601">
+        <stop
+           offset="0"
+           style="stop-color:#383838"
+           id="stop34-5-3-9-7-5-6-8-8-8-6" />
+        <stop
+           offset="0.45"
+           style="stop-color:#ECECEC"
+           id="stop35-0-3-0-2-2-8-9-8-8-4" />
+        <stop
+           offset="0.55"
+           style="stop-color:#D9D9D9"
+           id="stop36-2-4-4-8-7-3-4-2-9-6" />
+        <stop
+           offset="0.76"
+           style="stop-color:#A8A8A8"
+           id="stop37-8-28-9-0-71-1-2-9-4-7" />
+        <stop
+           offset="0.77"
+           style="stop-color:#A6A6A6"
+           id="stop38-1-0-3-8-1-6-90-1-4-2" />
+        <stop
+           offset="1"
+           style="stop-color:#383838"
+           id="stop39-8-0-3-9-2-4-8-14-8-1" />
+      </linearGradient>
+      <path
+         d="M 0,60.393 51.834,86.49 0,112.97 V 60.393"
+         id="path11-2-6-4-8-6-5-7-55-1-3-5" />
+    </g>
     <g
        id="Z25.2d_1-7"
        transform="matrix(-0.03435304,0,0,0.03485985,132.81463,48.435908)"
@@ -29314,29 +29762,48 @@
          d="m 102.744,60.393 -51.835,26.096 51.835,26.48 V 60.393"
          id="path17-4-0-33-3-9-0-8-9-8-3-3-0" />
     </g>
-	<g
-         id="Z252d_vlv02">
-		<g
-		   id="Z252d_1"
-		   transform="matrix(-0.03435304,0,0,0.03485985,132.81458,48.435907)"
-		   inkscape:label="Z252d_1">
-		  <title
-			 id="title98">Z-252d_1</title>
-		  <path
-			 d="m 102.744,60.393 -51.835,26.096 51.835,26.48 V 60.393"
-			 id="path17-4-0-33-3-9-0-8-9-8-3-3" />
-		</g>
-		<g
-		   id="Z252d_2"
-		   transform="matrix(-0.03435304,0,0,0.03485985,132.81458,48.435907)"
-		   inkscape:label="Z252d_2">
-		  <title
-			 id="title99">Z-252d_2</title>
-		  <path
-			 d="M 0,60.393 51.834,86.49 0,112.97 V 60.393"
-			 id="path11-2-6-4-8-6-5-7-55-1-3-5" />
-		</g>
-	</g>
+    <g
+       id="Z25.2d_1"
+       transform="matrix(-0.03435304,0,0,0.03485985,132.81458,48.435907)"
+       inkscape:label="Z25.2d_1">
+      <title
+         id="title98">Z-25.2d_1</title>
+      <linearGradient
+         id="linearGradient886"
+         gradientUnits="userSpaceOnUse"
+         x1="76.826202"
+         y1="112.9697"
+         x2="76.826202"
+         y2="60.392601">
+        <stop
+           offset="0"
+           style="stop-color:#383838"
+           id="stop40-5-3-0-2-4-5-9-1-7-2" />
+        <stop
+           offset="0.45"
+           style="stop-color:#ECECEC"
+           id="stop41-3-4-5-8-8-8-1-0-3-2" />
+        <stop
+           offset="0.55"
+           style="stop-color:#D9D9D9"
+           id="stop42-4-3-71-7-6-9-2-4-9-0" />
+        <stop
+           offset="0.76"
+           style="stop-color:#A8A8A8"
+           id="stop43-1-8-3-4-2-8-6-3-6-7" />
+        <stop
+           offset="0.77"
+           style="stop-color:#A6A6A6"
+           id="stop44-2-6-8-3-4-1-8-6-7-5" />
+        <stop
+           offset="1"
+           style="stop-color:#383838"
+           id="stop45-7-7-9-0-7-1-7-37-3-3" />
+      </linearGradient>
+      <path
+         d="m 102.744,60.393 -51.835,26.096 51.835,26.48 V 60.393"
+         id="path17-4-0-33-3-9-0-8-9-8-3-3" />
+    </g>
     <g
        id="Group_Horizonatal_Short-2-3-9-4-0-4-0-7-03-7-1-4-1"
        transform="matrix(0,-0.07940554,-0.00360873,0,133.94545,61.782725)">
@@ -29552,8 +30019,7 @@
          id="path17-4-0-33-3-9-0-8-9-8-3-3-3-5" />
     </g>
 	
-	<g
-         id="Z26d_vlv02">
+<g id="Z26d_vlv02">
 		<g
 		   id="Z26d_1"
 		   transform="matrix(0,0.03435304,0.03485985,0,124.58452,43.353949)"
@@ -30346,7 +30812,48 @@
          d="M 0,60.393 51.834,86.49 0,112.97 V 60.393"
          id="path11-2-6-4-8-6-5-7-55-1-3-0-6" />
     </g>
-
+    <g
+       id="Z15v_2"
+       transform="matrix(-0.02196268,0,0,0.02228669,142.73392,10.732882)"
+       inkscape:label="Z15v_2">
+      <title
+         id="title79">Z-15v_2</title>
+      <linearGradient
+         id="linearGradient920"
+         gradientUnits="userSpaceOnUse"
+         x1="25.917"
+         y1="112.9697"
+         x2="25.917"
+         y2="60.392601">
+        <stop
+           offset="0"
+           style="stop-color:#383838"
+           id="stop34-5-3-9-7-5-6-8-8-8-7" />
+        <stop
+           offset="0.45"
+           style="stop-color:#ECECEC"
+           id="stop35-0-3-0-2-2-8-9-8-8-42" />
+        <stop
+           offset="0.55"
+           style="stop-color:#D9D9D9"
+           id="stop36-2-4-4-8-7-3-4-2-9-3" />
+        <stop
+           offset="0.76"
+           style="stop-color:#A8A8A8"
+           id="stop37-8-28-9-0-71-1-2-9-4-5" />
+        <stop
+           offset="0.77"
+           style="stop-color:#A6A6A6"
+           id="stop38-1-0-3-8-1-6-90-1-4-9" />
+        <stop
+           offset="1"
+           style="stop-color:#383838"
+           id="stop39-8-0-3-9-2-4-8-14-8-4" />
+      </linearGradient>
+      <path
+         d="M 0,60.393 51.834,86.49 0,112.97 V 60.393"
+         id="path11-2-6-4-8-6-5-7-55-1-3-0" />
+    </g>
     <g
        id="Z15v_1-1"
        transform="matrix(-0.02196268,0,0,0.02228669,142.73392,10.732886)"
@@ -30387,29 +30894,48 @@
          d="m 102.744,60.393 -51.835,26.096 51.835,26.48 V 60.393"
          id="path17-4-0-33-3-9-0-8-9-8-3-4-7" />
     </g>
-	<g
-         id="Z15v_vlv02">
-		<g
-		   id="Z15v_1"
-		   transform="matrix(-0.02196268,0,0,0.02228669,142.73392,10.732886)"
-		   inkscape:label="Z15v_1">
-		  <title
-			 id="title78">Z-15v_1</title>
-		  <path
-			 d="m 102.744,60.393 -51.835,26.096 51.835,26.48 V 60.393"
-			 id="path17-4-0-33-3-9-0-8-9-8-3-4" />
-		</g>
-		<g
-		   id="Z15v_2"
-		   transform="matrix(-0.02196268,0,0,0.02228669,142.73392,10.732882)"
-		   inkscape:label="Z15v_2">
-		  <title
-			 id="title79">Z-15v_2</title>
-		  <path
-			 d="M 0,60.393 51.834,86.49 0,112.97 V 60.393"
-			 id="path11-2-6-4-8-6-5-7-55-1-3-0" />
-		</g>
-	</g>
+    <g
+       id="Z15v_1"
+       transform="matrix(-0.02196268,0,0,0.02228669,142.73392,10.732886)"
+       inkscape:label="Z15v_1">
+      <title
+         id="title78">Z-15v_1</title>
+      <linearGradient
+         id="linearGradient921"
+         gradientUnits="userSpaceOnUse"
+         x1="76.826202"
+         y1="112.9697"
+         x2="76.826202"
+         y2="60.392601">
+        <stop
+           offset="0"
+           style="stop-color:#383838"
+           id="stop40-5-3-0-2-4-5-9-1-7-3" />
+        <stop
+           offset="0.45"
+           style="stop-color:#ECECEC"
+           id="stop41-3-4-5-8-8-8-1-0-3-8" />
+        <stop
+           offset="0.55"
+           style="stop-color:#D9D9D9"
+           id="stop42-4-3-71-7-6-9-2-4-9-9" />
+        <stop
+           offset="0.76"
+           style="stop-color:#A8A8A8"
+           id="stop43-1-8-3-4-2-8-6-3-6-9" />
+        <stop
+           offset="0.77"
+           style="stop-color:#A6A6A6"
+           id="stop44-2-6-8-3-4-1-8-6-7-7" />
+        <stop
+           offset="1"
+           style="stop-color:#383838"
+           id="stop45-7-7-9-0-7-1-7-37-3-8" />
+      </linearGradient>
+      <path
+         d="m 102.744,60.393 -51.835,26.096 51.835,26.48 V 60.393"
+         id="path17-4-0-33-3-9-0-8-9-8-3-4" />
+    </g>
     <g
        id="Group_Horizonatal_Short-2-3-9-4-0-4-0-7-03-7-7-6-40-8-1"
        transform="matrix(0,0.04940313,0.00638323,0,143.37866,6.2390254)">
@@ -30518,7 +31044,48 @@
          d="M 0,60.393 51.834,86.49 0,112.97 V 60.393"
          id="path11-2-6-4-8-6-5-7-55-1-3-0-1-1" />
     </g>
-
+    <g
+       id="Z16v_2"
+       transform="matrix(-0.02196268,0,0,0.02175638,77.906877,14.261473)"
+       inkscape:label="Z16v_2">
+      <title
+         id="title69">Z-16v_2</title>
+      <linearGradient
+         id="linearGradient925"
+         gradientUnits="userSpaceOnUse"
+         x1="25.917"
+         y1="112.9697"
+         x2="25.917"
+         y2="60.392601">
+        <stop
+           offset="0"
+           style="stop-color:#383838"
+           id="stop34-5-3-9-7-5-6-8-8-8-7-2" />
+        <stop
+           offset="0.45"
+           style="stop-color:#ECECEC"
+           id="stop35-0-3-0-2-2-8-9-8-8-42-8" />
+        <stop
+           offset="0.55"
+           style="stop-color:#D9D9D9"
+           id="stop36-2-4-4-8-7-3-4-2-9-3-8" />
+        <stop
+           offset="0.76"
+           style="stop-color:#A8A8A8"
+           id="stop37-8-28-9-0-71-1-2-9-4-5-9" />
+        <stop
+           offset="0.77"
+           style="stop-color:#A6A6A6"
+           id="stop38-1-0-3-8-1-6-90-1-4-9-1" />
+        <stop
+           offset="1"
+           style="stop-color:#383838"
+           id="stop39-8-0-3-9-2-4-8-14-8-4-7" />
+      </linearGradient>
+      <path
+         d="M 0,60.393 51.834,86.49 0,112.97 V 60.393"
+         id="path11-2-6-4-8-6-5-7-55-1-3-0-1" />
+    </g>
     <g
        id="Z16v_1-1"
        transform="matrix(-0.02196268,0,0,0.02175638,77.886555,14.261473)"
@@ -30559,29 +31126,48 @@
          d="m 102.744,60.393 -51.835,26.096 51.835,26.48 V 60.393"
          id="path17-4-0-33-3-9-0-8-9-8-3-4-2-6" />
     </g>
-	<g
-         id="Z16v_vlv02">
-		<g
-		   id="Z16v_1"
-		   transform="matrix(-0.02196268,0,0,0.02175638,77.906877,14.261473)"
-		   inkscape:label="Z16v_1">
-		  <title
-			 id="title68">Z-16v_1</title>
-		  <path
-			 d="m 102.744,60.393 -51.835,26.096 51.835,26.48 V 60.393"
-			 id="path17-4-0-33-3-9-0-8-9-8-3-4-2" />
-		</g>
-		<g
-		   id="Z16v_2"
-		   transform="matrix(-0.02196268,0,0,0.02175638,77.906877,14.261473)"
-		   inkscape:label="Z16v_2">
-		  <title
-			 id="title69">Z-16v_2</title>
-		  <path
-			 d="M 0,60.393 51.834,86.49 0,112.97 V 60.393"
-			 id="path11-2-6-4-8-6-5-7-55-1-3-0-1" />
-		</g>
-	</g>
+    <g
+       id="Z16v_1"
+       transform="matrix(-0.02196268,0,0,0.02175638,77.906877,14.261473)"
+       inkscape:label="Z16v_1">
+      <title
+         id="title68">Z-16v_1</title>
+      <linearGradient
+         id="linearGradient926"
+         gradientUnits="userSpaceOnUse"
+         x1="76.826202"
+         y1="112.9697"
+         x2="76.826202"
+         y2="60.392601">
+        <stop
+           offset="0"
+           style="stop-color:#383838"
+           id="stop40-5-3-0-2-4-5-9-1-7-3-5" />
+        <stop
+           offset="0.45"
+           style="stop-color:#ECECEC"
+           id="stop41-3-4-5-8-8-8-1-0-3-8-3" />
+        <stop
+           offset="0.55"
+           style="stop-color:#D9D9D9"
+           id="stop42-4-3-71-7-6-9-2-4-9-9-1" />
+        <stop
+           offset="0.76"
+           style="stop-color:#A8A8A8"
+           id="stop43-1-8-3-4-2-8-6-3-6-9-4" />
+        <stop
+           offset="0.77"
+           style="stop-color:#A6A6A6"
+           id="stop44-2-6-8-3-4-1-8-6-7-7-1" />
+        <stop
+           offset="1"
+           style="stop-color:#383838"
+           id="stop45-7-7-9-0-7-1-7-37-3-8-5" />
+      </linearGradient>
+      <path
+         d="m 102.744,60.393 -51.835,26.096 51.835,26.48 V 60.393"
+         id="path17-4-0-33-3-9-0-8-9-8-3-4-2" />
+    </g>
     <g
        id="Group_Horizonatal_Short-2-3-9-4-0-4-0-7-03-7-7-6-40-8-1-3"
        transform="matrix(0,0.04940313,0.00638323,0,78.551622,9.7216354)">
@@ -30774,30 +31360,49 @@
          d="m 102.744,60.393 -51.835,26.096 51.835,26.48 V 60.393"
          id="path17-4-0-33-3-9-0-8-9-8-3-4-2-3-5" />
     </g>
-	<g
-         id="Z14v_vlv02">
-		<g
-		   id="Z14v_1"
-		   transform="matrix(-0.02196268,0,0,0.02228669,76.517956,55.837421)"
-		   style="fill:#020202;fill-opacity:1;opacity:1"
-		   inkscape:label="Z14v_1">
-		  <title
-			 id="title82">Z-14v_1</title>
-		  <path
-			 d="m 102.744,60.393 -51.835,26.096 51.835,26.48 V 60.393"
-			 id="path17-4-0-33-3-9-0-8-9-8-3-4-2-3" />
-		</g>
-		<g
-		   id="Z14v_2"
-		   transform="matrix(-0.02196268,0,0,0.02228669,76.517956,55.837421)"
-		   inkscape:label="Z14v_2">
-		  <title
-			 id="title83">Z-14v_2</title>
-		  <path
-			 d="M 0,60.393 51.834,86.49 0,112.97 V 60.393"
-			 id="path11-2-6-4-8-6-5-7-55-1-3-0-1-6" />
-		</g>
-	</g>
+    <g
+       id="Z14v_1"
+       transform="matrix(-0.02196268,0,0,0.02228669,76.517956,55.837421)"
+       style="fill:#020202;fill-opacity:1;opacity:1"
+       inkscape:label="Z14v_1">
+      <title
+         id="title82">Z-14v_1</title>
+      <linearGradient
+         id="linearGradient950"
+         gradientUnits="userSpaceOnUse"
+         x1="76.826202"
+         y1="112.9697"
+         x2="76.826202"
+         y2="60.392601">
+        <stop
+           offset="0"
+           style="stop-color:#383838"
+           id="stop40-5-3-0-2-4-5-9-1-7-3-5-8" />
+        <stop
+           offset="0.45"
+           style="stop-color:#ECECEC"
+           id="stop41-3-4-5-8-8-8-1-0-3-8-3-3" />
+        <stop
+           offset="0.55"
+           style="stop-color:#D9D9D9"
+           id="stop42-4-3-71-7-6-9-2-4-9-9-1-4" />
+        <stop
+           offset="0.76"
+           style="stop-color:#A8A8A8"
+           id="stop43-1-8-3-4-2-8-6-3-6-9-4-3" />
+        <stop
+           offset="0.77"
+           style="stop-color:#A6A6A6"
+           id="stop44-2-6-8-3-4-1-8-6-7-7-1-0" />
+        <stop
+           offset="1"
+           style="stop-color:#383838"
+           id="stop45-7-7-9-0-7-1-7-37-3-8-5-5" />
+      </linearGradient>
+      <path
+         d="m 102.744,60.393 -51.835,26.096 51.835,26.48 V 60.393"
+         id="path17-4-0-33-3-9-0-8-9-8-3-4-2-3" />
+    </g>
     <g
        id="Group_Horizonatal_Short-2-3-9-4-0-4-0-7-03-7-7-6-40-8-1-3-9"
        transform="matrix(0,0.05060659,0.00923925,0,77.451192,51.187025)">
@@ -31177,29 +31782,48 @@
          d="m 102.744,60.393 -51.835,26.096 51.835,26.48 V 60.393"
          id="path17-4-0-33-3-9-0-8-9-8-3-4-2-3-0-6" />
     </g>
-	<g
-         id="Z14.1_vlv02">
-		<g
-		   id="Z14.1_1"
-		   transform="matrix(0,0.02196268,0.02228669,0,77.445504,53.667738)"
-		   inkscape:label="Z14.1_1">
-		  <title
-			 id="title80">Z-14.1_1</title>
-		  <path
-			 d="m 102.744,60.393 -51.835,26.096 51.835,26.48 V 60.393"
-			 id="path17-4-0-33-3-9-0-8-9-8-3-4-2-3-0" />
-		</g>
-		<g
-		   id="Z14.1_2"
-		   transform="matrix(0,0.02196268,0.02228669,0,77.445504,53.667738)"
-		   inkscape:label="Z14.1_2">
-		  <title
-			 id="title81">Z-14.1_2</title>
-		  <path
-			 d="M 0,60.393 51.834,86.49 0,112.97 V 60.393"
-			 id="path11-2-6-4-8-6-5-7-55-1-3-0-1-6-5" />
-		</g>
-	</g>
+    <g
+       id="Z14.1_1"
+       transform="matrix(0,0.02196268,0.02228669,0,77.445504,53.667738)"
+       inkscape:label="Z14.1_1">
+      <title
+         id="title80">Z-14.1_1</title>
+      <linearGradient
+         id="linearGradient956"
+         gradientUnits="userSpaceOnUse"
+         x1="76.826202"
+         y1="112.9697"
+         x2="76.826202"
+         y2="60.392601">
+        <stop
+           offset="0"
+           style="stop-color:#383838"
+           id="stop40-5-3-0-2-4-5-9-1-7-3-5-8-8" />
+        <stop
+           offset="0.45"
+           style="stop-color:#ECECEC"
+           id="stop41-3-4-5-8-8-8-1-0-3-8-3-3-0" />
+        <stop
+           offset="0.55"
+           style="stop-color:#D9D9D9"
+           id="stop42-4-3-71-7-6-9-2-4-9-9-1-4-9" />
+        <stop
+           offset="0.76"
+           style="stop-color:#A8A8A8"
+           id="stop43-1-8-3-4-2-8-6-3-6-9-4-3-1" />
+        <stop
+           offset="0.77"
+           style="stop-color:#A6A6A6"
+           id="stop44-2-6-8-3-4-1-8-6-7-7-1-0-7" />
+        <stop
+           offset="1"
+           style="stop-color:#383838"
+           id="stop45-7-7-9-0-7-1-7-37-3-8-5-5-1" />
+      </linearGradient>
+      <path
+         d="m 102.744,60.393 -51.835,26.096 51.835,26.48 V 60.393"
+         id="path17-4-0-33-3-9-0-8-9-8-3-4-2-3-0" />
+    </g>
     <g
        id="Group_Tee_H-1-1-1-0-7-7-2-3"
        transform="matrix(0,-0.0235814,-0.02083104,0,80.549102,58.577175)">
@@ -32203,7 +32827,48 @@
          d="M 0,60.393 51.834,86.49 0,112.97 V 60.393"
          id="path11-2-6-4-8-6-5-7-55-1-3-5-3-8-9" />
     </g>
-
+    <g
+       id="Z1_2"
+       transform="matrix(0,0.03435304,0.0344326,0,97.910235,65.681918)"
+       inkscape:label="Z1_2">
+      <title
+         id="title92">Z-1_2</title>
+      <linearGradient
+         id="linearGradient999"
+         gradientUnits="userSpaceOnUse"
+         x1="25.917"
+         y1="112.9697"
+         x2="25.917"
+         y2="60.392601">
+        <stop
+           offset="0"
+           style="stop-color:#383838"
+           id="stop34-5-3-9-7-5-6-8-8-8-6-2-3" />
+        <stop
+           offset="0.45"
+           style="stop-color:#ECECEC"
+           id="stop35-0-3-0-2-2-8-9-8-8-4-5-1" />
+        <stop
+           offset="0.55"
+           style="stop-color:#D9D9D9"
+           id="stop36-2-4-4-8-7-3-4-2-9-6-0-5" />
+        <stop
+           offset="0.76"
+           style="stop-color:#A8A8A8"
+           id="stop37-8-28-9-0-71-1-2-9-4-7-7-6" />
+        <stop
+           offset="0.77"
+           style="stop-color:#A6A6A6"
+           id="stop38-1-0-3-8-1-6-90-1-4-2-5-4" />
+        <stop
+           offset="1"
+           style="stop-color:#383838"
+           id="stop39-8-0-3-9-2-4-8-14-8-1-8-9" />
+      </linearGradient>
+      <path
+         d="M 0,60.393 51.834,86.49 0,112.97 V 60.393"
+         id="path11-2-6-4-8-6-5-7-55-1-3-5-3-8" />
+    </g>
     <g
        id="Z1_1-1"
        transform="matrix(0,0.03435304,0.0344326,0,97.910235,65.681918)"
@@ -32244,29 +32909,48 @@
          d="m 102.744,60.393 -51.835,26.096 51.835,26.48 V 60.393"
          id="path17-4-0-33-3-9-0-8-9-8-3-3-3-0-8" />
     </g>
-	<g
-         id="Z1_vlv02">
-		<g
-		   id="Z1_1"
-		   transform="matrix(0,0.03435304,0.0344326,0,97.910235,65.681918)"
-		   inkscape:label="Z1_1">
-		  <title
-			 id="title91">Z-1_1</title>
-		  <path
-			 d="m 102.744,60.393 -51.835,26.096 51.835,26.48 V 60.393"
-			 id="path17-4-0-33-3-9-0-8-9-8-3-3-3-0" />
-		</g>
-		<g
-		   id="Z1_2"
-		   transform="matrix(0,0.03435304,0.0344326,0,97.910235,65.681918)"
-		   inkscape:label="Z1_2">
-		  <title
-			 id="title92">Z-1_2</title>
-		  <path
-			 d="M 0,60.393 51.834,86.49 0,112.97 V 60.393"
-			 id="path11-2-6-4-8-6-5-7-55-1-3-5-3-8" />
-		</g>
-	</g>
+    <g
+       id="Z1_1"
+       transform="matrix(0,0.03435304,0.0344326,0,97.910235,65.681918)"
+       inkscape:label="Z1_1">
+      <title
+         id="title91">Z-1_1</title>
+      <linearGradient
+         id="linearGradient1000"
+         gradientUnits="userSpaceOnUse"
+         x1="76.826202"
+         y1="112.9697"
+         x2="76.826202"
+         y2="60.392601">
+        <stop
+           offset="0"
+           style="stop-color:#383838"
+           id="stop40-5-3-0-2-4-5-9-1-7-2-6-8" />
+        <stop
+           offset="0.45"
+           style="stop-color:#ECECEC"
+           id="stop41-3-4-5-8-8-8-1-0-3-2-6-1" />
+        <stop
+           offset="0.55"
+           style="stop-color:#D9D9D9"
+           id="stop42-4-3-71-7-6-9-2-4-9-0-6-3" />
+        <stop
+           offset="0.76"
+           style="stop-color:#A8A8A8"
+           id="stop43-1-8-3-4-2-8-6-3-6-7-6-1" />
+        <stop
+           offset="0.77"
+           style="stop-color:#A6A6A6"
+           id="stop44-2-6-8-3-4-1-8-6-7-5-6-4" />
+        <stop
+           offset="1"
+           style="stop-color:#383838"
+           id="stop45-7-7-9-0-7-1-7-37-3-3-5-7" />
+      </linearGradient>
+      <path
+         d="m 102.744,60.393 -51.835,26.096 51.835,26.48 V 60.393"
+         id="path17-4-0-33-3-9-0-8-9-8-3-3-3-0" />
+    </g>
     <g
        id="Group_Horizonatal_Short-2-3-9-4-0-4-0-7-03-7-7-6-4-7"
        transform="matrix(-0.07868323,0,0,0.01111001,111.129,62.200495)">
@@ -32528,7 +33212,48 @@
          d="M 0,60.393 51.834,86.49 0,112.97 V 60.393"
          id="path11-2-6-4-8-6-5-7-55-1-3-5-3-8-7-7" />
     </g>
-
+    <g
+       id="Z22d_2"
+       transform="matrix(0,0.03435304,0.0344326,0,97.910235,57.548764)"
+       inkscape:label="Z22d_2">
+      <title
+         id="title88">Z-22d_2</title>
+      <linearGradient
+         id="linearGradient1011"
+         gradientUnits="userSpaceOnUse"
+         x1="25.917"
+         y1="112.9697"
+         x2="25.917"
+         y2="60.392601">
+        <stop
+           offset="0"
+           style="stop-color:#383838"
+           id="stop34-5-3-9-7-5-6-8-8-8-6-2-3-6" />
+        <stop
+           offset="0.45"
+           style="stop-color:#ECECEC"
+           id="stop35-0-3-0-2-2-8-9-8-8-4-5-1-8" />
+        <stop
+           offset="0.55"
+           style="stop-color:#D9D9D9"
+           id="stop36-2-4-4-8-7-3-4-2-9-6-0-5-8" />
+        <stop
+           offset="0.76"
+           style="stop-color:#A8A8A8"
+           id="stop37-8-28-9-0-71-1-2-9-4-7-7-6-9" />
+        <stop
+           offset="0.77"
+           style="stop-color:#A6A6A6"
+           id="stop38-1-0-3-8-1-6-90-1-4-2-5-4-3" />
+        <stop
+           offset="1"
+           style="stop-color:#383838"
+           id="stop39-8-0-3-9-2-4-8-14-8-1-8-9-0" />
+      </linearGradient>
+      <path
+         d="M 0,60.393 51.834,86.49 0,112.97 V 60.393"
+         id="path11-2-6-4-8-6-5-7-55-1-3-5-3-8-7" />
+    </g>
     <g
        id="Z22d_1-6"
        transform="matrix(0,0.03435304,0.0344326,0,97.910235,57.548764)"
@@ -32569,29 +33294,48 @@
          d="m 102.744,60.393 -51.835,26.096 51.835,26.48 V 60.393"
          id="path17-4-0-33-3-9-0-8-9-8-3-3-3-0-4-9" />
     </g>
-	<g
-         id="Z22d_vlv02">
-		<g
-		   id="Z22d_1"
-		   transform="matrix(0,0.03435304,0.0344326,0,97.910235,57.548764)"
-		   inkscape:label="Z22d_1">
-		  <title
-			 id="title87">Z-22d_1</title>
-		  <path
-			 d="m 102.744,60.393 -51.835,26.096 51.835,26.48 V 60.393"
-			 id="path17-4-0-33-3-9-0-8-9-8-3-3-3-0-4" />
-		</g>
-		<g
-		   id="Z22d_2"
-		   transform="matrix(0,0.03435304,0.0344326,0,97.910235,57.548764)"
-		   inkscape:label="Z22d_2">
-		  <title
-			 id="title88">Z-22d_2</title>
-		  <path
-			 d="M 0,60.393 51.834,86.49 0,112.97 V 60.393"
-			 id="path11-2-6-4-8-6-5-7-55-1-3-5-3-8-7" />
-		</g>
-	</g>
+    <g
+       id="Z22d_1"
+       transform="matrix(0,0.03435304,0.0344326,0,97.910235,57.548764)"
+       inkscape:label="Z22d_1">
+      <title
+         id="title87">Z-22d_1</title>
+      <linearGradient
+         id="linearGradient1012"
+         gradientUnits="userSpaceOnUse"
+         x1="76.826202"
+         y1="112.9697"
+         x2="76.826202"
+         y2="60.392601">
+        <stop
+           offset="0"
+           style="stop-color:#383838"
+           id="stop40-5-3-0-2-4-5-9-1-7-2-6-8-1" />
+        <stop
+           offset="0.45"
+           style="stop-color:#ECECEC"
+           id="stop41-3-4-5-8-8-8-1-0-3-2-6-1-7" />
+        <stop
+           offset="0.55"
+           style="stop-color:#D9D9D9"
+           id="stop42-4-3-71-7-6-9-2-4-9-0-6-3-3" />
+        <stop
+           offset="0.76"
+           style="stop-color:#A8A8A8"
+           id="stop43-1-8-3-4-2-8-6-3-6-7-6-1-8" />
+        <stop
+           offset="0.77"
+           style="stop-color:#A6A6A6"
+           id="stop44-2-6-8-3-4-1-8-6-7-5-6-4-2" />
+        <stop
+           offset="1"
+           style="stop-color:#383838"
+           id="stop45-7-7-9-0-7-1-7-37-3-3-5-7-7" />
+      </linearGradient>
+      <path
+         d="m 102.744,60.393 -51.835,26.096 51.835,26.48 V 60.393"
+         id="path17-4-0-33-3-9-0-8-9-8-3-3-3-0-4" />
+    </g>
     <g
        id="Group_Tee_H-1-1-1-0-73-2-9"
        transform="matrix(-0.03978561,0,0,0.03268558,102.18421,61.464275)">
@@ -32665,7 +33409,48 @@
          d="M 0,60.393 51.834,86.49 0,112.97 V 60.393"
          id="path11-2-6-4-8-6-5-7-55-1-3-5-3-8-7-0-5" />
     </g>
-
+    <g
+       id="Z23d_2"
+       transform="matrix(-0.03435304,0,0,0.034969,97.708301,60.271682)"
+       inkscape:label="Z23d_2">
+      <title
+         id="title90">Z-23d_2</title>
+      <linearGradient
+         id="linearGradient1016"
+         gradientUnits="userSpaceOnUse"
+         x1="25.917"
+         y1="112.9697"
+         x2="25.917"
+         y2="60.392601">
+        <stop
+           offset="0"
+           style="stop-color:#383838"
+           id="stop34-5-3-9-7-5-6-8-8-8-6-2-3-6-4" />
+        <stop
+           offset="0.45"
+           style="stop-color:#ECECEC"
+           id="stop35-0-3-0-2-2-8-9-8-8-4-5-1-8-5" />
+        <stop
+           offset="0.55"
+           style="stop-color:#D9D9D9"
+           id="stop36-2-4-4-8-7-3-4-2-9-6-0-5-8-3" />
+        <stop
+           offset="0.76"
+           style="stop-color:#A8A8A8"
+           id="stop37-8-28-9-0-71-1-2-9-4-7-7-6-9-9" />
+        <stop
+           offset="0.77"
+           style="stop-color:#A6A6A6"
+           id="stop38-1-0-3-8-1-6-90-1-4-2-5-4-3-2" />
+        <stop
+           offset="1"
+           style="stop-color:#383838"
+           id="stop39-8-0-3-9-2-4-8-14-8-1-8-9-0-1" />
+      </linearGradient>
+      <path
+         d="M 0,60.393 51.834,86.49 0,112.97 V 60.393"
+         id="path11-2-6-4-8-6-5-7-55-1-3-5-3-8-7-0" />
+    </g>
     <g
        id="Z23d_1-5"
        transform="matrix(-0.03435304,0,0,0.034969,97.708302,60.271681)"
@@ -32706,29 +33491,48 @@
          d="m 102.744,60.393 -51.835,26.096 51.835,26.48 V 60.393"
          id="path17-4-0-33-3-9-0-8-9-8-3-3-3-0-4-8-7" />
     </g>
-	<g
-         id="Z23d_vlv02">
-		<g
-		   id="Z23d_1"
-		   transform="matrix(-0.03435304,0,0,0.034969,97.708301,60.271682)"
-		   inkscape:label="Z23d_1">
-		  <title
-			 id="title89">Z-23d_1</title>
-		  <path
-			 d="m 102.744,60.393 -51.835,26.096 51.835,26.48 V 60.393"
-			 id="path17-4-0-33-3-9-0-8-9-8-3-3-3-0-4-8" />
-		</g>
-		<g
-		   id="Z23d_2"
-		   transform="matrix(-0.03435304,0,0,0.034969,97.708301,60.271682)"
-		   inkscape:label="Z23d_2">
-		  <title
-			 id="title90">Z-23d_2</title>
-		  <path
-			 d="M 0,60.393 51.834,86.49 0,112.97 V 60.393"
-			 id="path11-2-6-4-8-6-5-7-55-1-3-5-3-8-7-0" />
-		</g>
-	</g>
+    <g
+       id="Z23d_1"
+       transform="matrix(-0.03435304,0,0,0.034969,97.708301,60.271682)"
+       inkscape:label="Z23d_1">
+      <title
+         id="title89">Z-23d_1</title>
+      <linearGradient
+         id="linearGradient1017"
+         gradientUnits="userSpaceOnUse"
+         x1="76.826202"
+         y1="112.9697"
+         x2="76.826202"
+         y2="60.392601">
+        <stop
+           offset="0"
+           style="stop-color:#383838"
+           id="stop40-5-3-0-2-4-5-9-1-7-2-6-8-1-3" />
+        <stop
+           offset="0.45"
+           style="stop-color:#ECECEC"
+           id="stop41-3-4-5-8-8-8-1-0-3-2-6-1-7-0" />
+        <stop
+           offset="0.55"
+           style="stop-color:#D9D9D9"
+           id="stop42-4-3-71-7-6-9-2-4-9-0-6-3-3-1" />
+        <stop
+           offset="0.76"
+           style="stop-color:#A8A8A8"
+           id="stop43-1-8-3-4-2-8-6-3-6-7-6-1-8-5" />
+        <stop
+           offset="0.77"
+           style="stop-color:#A6A6A6"
+           id="stop44-2-6-8-3-4-1-8-6-7-5-6-4-2-5" />
+        <stop
+           offset="1"
+           style="stop-color:#383838"
+           id="stop45-7-7-9-0-7-1-7-37-3-3-5-7-7-4" />
+      </linearGradient>
+      <path
+         d="m 102.744,60.393 -51.835,26.096 51.835,26.48 V 60.393"
+         id="path17-4-0-33-3-9-0-8-9-8-3-3-3-0-4-8" />
+    </g>
     <g
        id="Group_Horizonatal_Short-2-3-9-4-0-4-0-7-03-7-7-6-4-4"
        transform="matrix(0,0.07940554,0.01242448,0,104.3881,44.715555)">
