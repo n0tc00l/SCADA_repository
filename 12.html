@@ -1,0 +1,36 @@
+<title>Alpine.js тест</title>
+<script defer src="/alpinejs.cdn.min.js"></script>
+<script src="/alpinejs-ws-transfer.js"></script>
+<style>.attention { color: red };</style>
+<body x-data x-init="$store.request({
+    v: ['Z1_POS', 'Z1_OPEN', 'Z1_CLOSE', 'Z1_STATUS']
+  })">
+    <div>POS: <span x-text="$store.v.Z1_POS"></span></div>
+    <div>OPEN: <span x-text="$store.v.Z1_OPEN"></span></div>
+    <div>CLOSE: <span x-text="$store.v.Z1_CLOSE"></span></div>
+	<div>STATUS: <span x-text="$store.v.Z1_STATUS"></span></div>
+	
+	<button type="submit"  id="roflan"  class="btn btn-primary">Add</button>
+	
+	<button type="submit" id="roflan1" class="btn btn-primary">Substr</button>
+	<script>
+	document.getElementById('roflan').addEventListener('click', function(event) {
+			//console.log('rrrrr');
+            event.preventDefault(); // Предотвращаем стандартное поведение кнопки
+			//console.log('111111');
+            //ws.send(JSON.stringify({action: 'message', data: {w:['PobrKO',1]}}));
+	    ws.send(JSON.stringify({w:[['Z1_OPEN',1], ['Z1_CLOSE',0]]}));
+			//console.log('33333333');
+	    }); // Вызываем функцию
+	document.getElementById('roflan1').addEventListener('click', function(event) {
+			//console.log('rrrrr');
+            event.preventDefault(); // Предотвращаем стандартное поведение кнопки
+			//console.log('111111');
+            //ws.send(JSON.stringify({action: 'message', data: {w:['PobrKO',1]}}));
+            ws.send(JSON.stringify({w:[['Z1_OPEN',0], ['Z1_CLOSE',1]]}));
+			//console.log('33333333');
+	    }); // Вызываем функцию
+				
+			
+	</script>
+</body>

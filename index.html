@@ -1,0 +1,81 @@
+
+
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Dynamic SVG</title>
+  <link rel="stylesheet" href="styles.css"> 
+</head>
+<script defer src="/alpinejs.cdn.min.js"></script>
+<script src="/alpinejs-ws-transfer.js"></script>
+<link rel="stylesheet" href="css/vlv01.css">
+<link rel="stylesheet" href="css/tbu01.css">
+<body x-data x-init="$store.request({
+  v: [
+ 'Z1_POS', 'Z1_OPEN', 'Z1_CLOSE', 'Z1_STATUS','Z1_LOCK'
+,'Z2_POS', 'Z2_OPEN', 'Z2_CLOSE', 'Z2_STATUS','Z2_LOCK'
+,'Z3_POS', 'Z3_OPEN', 'Z3_CLOSE', 'Z3_STATUS','Z3_LOCK'
+,'Z4_POS', 'Z4_OPEN', 'Z4_CLOSE', 'Z4_STATUS','Z4_LOCK'
+,'Z5_POS', 'Z5_OPEN', 'Z5_CLOSE', 'Z5_STATUS','Z5_LOCK'
+,'Z6_POS', 'Z6_OPEN', 'Z6_CLOSE', 'Z6_STATUS','Z6_LOCK'
+,'Z7_POS', 'Z7_OPEN', 'Z7_CLOSE', 'Z7_STATUS','Z7_LOCK'
+,'Z8_POS', 'Z8_OPEN', 'Z8_CLOSE', 'Z8_STATUS','Z8_LOCK'
+,'Z9_POS', 'Z9_OPEN', 'Z9_CLOSE', 'Z9_STATUS','Z9_LOCK'
+,'Z10_POS', 'Z10_OPEN', 'Z10_CLOSE', 'Z10_STATUS','Z10_LOCK'
+,'Z11_POS', 'Z11_OPEN', 'Z11_CLOSE', 'Z11_STATUS','Z11_LOCK'
+,'Z12_POS', 'Z12_OPEN', 'Z12_CLOSE', 'Z12_STATUS','Z12_LOCK'
+,'Z13_POS', 'Z13_OPEN', 'Z13_CLOSE', 'Z13_STATUS','Z13_LOCK'
+,'Z14_POS', 'Z14_OPEN', 'Z14_CLOSE', 'Z14_STATUS','Z14_LOCK'
+,'Z15_POS', 'Z15_OPEN', 'Z15_CLOSE', 'Z15_STATUS','Z15_LOCK'
+,'Z16_POS', 'Z16_OPEN', 'Z16_CLOSE', 'Z16_STATUS','Z16_LOCK'
+,'Z17_POS', 'Z17_OPEN', 'Z17_CLOSE', 'Z17_STATUS','Z17_LOCK'
+,'Z18_POS', 'Z18_OPEN', 'Z18_CLOSE', 'Z18_STATUS','Z18_LOCK'
+,'Z19_POS', 'Z19_OPEN', 'Z19_CLOSE', 'Z19_STATUS','Z19_LOCK'
+,'Z20_POS', 'Z20_OPEN', 'Z20_CLOSE', 'Z20_STATUS','Z20_LOCK'
+,'Z21_POS', 'Z21_OPEN', 'Z21_CLOSE', 'Z21_STATUS','Z21_LOCK'
+,'Z22_POS', 'Z22_OPEN', 'Z22_CLOSE', 'Z22_STATUS','Z22_LOCK'
+,'Z23_POS', 'Z23_OPEN', 'Z23_CLOSE', 'Z23_STATUS','Z23_LOCK'
+,'Z24_POS', 'Z24_OPEN', 'Z24_CLOSE', 'Z24_STATUS','Z24_LOCK'
+,'Z25_POS', 'Z25_OPEN', 'Z25_CLOSE', 'Z25_STATUS','Z25_LOCK'
+,'Z26_POS', 'Z26_OPEN', 'Z26_CLOSE', 'Z26_STATUS','Z26_LOCK'
+,'Z27_POS', 'Z27_OPEN', 'Z27_CLOSE', 'Z27_STATUS','Z27_LOCK'
+,'Z28_POS', 'Z28_OPEN', 'Z28_CLOSE', 'Z28_STATUS','Z28_LOCK'
+,'Z29_POS', 'Z29_OPEN', 'Z29_CLOSE', 'Z29_STATUS','Z29_LOCK'
+,'Z30_POS', 'Z30_OPEN', 'Z30_CLOSE', 'Z30_STATUS','Z30_LOCK'
+,'Z31_POS', 'Z31_OPEN', 'Z31_CLOSE', 'Z31_STATUS','Z31_LOCK'
+,'Z32_POS', 'Z32_OPEN', 'Z32_CLOSE', 'Z32_STATUS','Z32_LOCK'
+,'Z33_POS', 'Z33_OPEN', 'Z33_CLOSE', 'Z33_STATUS','Z33_LOCK'
+,'Z34_POS', 'Z34_OPEN', 'Z34_CLOSE', 'Z34_STATUS','Z34_LOCK'
+,'Z26d_POS', 'Z26d_OPEN', 'Z26d_CLOSE', 'Z26d_STATUS','Z26d_LOCK'
+]
+})">
+  <div>rrrrrrPOS: <span x-text="$store.v.Z1_POS"></span></div>
+  <div id="svg-container"></div>
+  <!-- <script src="scripts/valve.js"></script> -->
+  <script src="scripts/script.js"></script>
+  <script src="scripts/hidden.js"></script>
+  <!-- <script src="scripts/WebSocket.js"></script> -->
+  <!-- <script src="scripts/tooltip.js"></script> -->
+  <!-- Кнопка-задвижка -->
+<!-- <button id="N29_btn" class="valve-btn" style="background-color: red">N29</button>
+<button id="N1_btn" class="valve-btn">N1</button>
+<button id="N2_btn" class="valve-btn">N2</button>
+<button id="N29_btn" class="valve-btn">N29</button>
+
+<!-- Модальное окно для этой задвижки -->
+<!-- <div id="N29_modal" class="modal" style="display:none">
+  <div class="modal-content">
+    <h3>Управление задвижкой N29</h3>
+    <p class="status">Текущее состояние: Закрыта</p>
+    <button class="open-btn">Открыть</button>
+    <button class="close-btn">Закрыть</button>
+    <button onclick="document.getElementById('N29_modal').style.display='none'">Закрыть окно</button>
+  </div>
+</div> --> 
+
+
+<div>Статус: <b><span x-text="$store.tubeUtils.getGradientId($store.v.Z30_STATUS)">{}</span></b></div>
+<button onclick="document.querySelectorAll('.scadaTube').forEach(el => {el.setAttribute('href', $store.utils.getGradientId($store.v.Z30_STATUS));})">Закрыть окно</button>
+
+</body>
+</html>
