@@ -1,0 +1,51 @@
+* {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+@keyframes css_tbu01__blink {
+    0%, 100% { opacity: 1; }
+	
+	50% { opacity: 0.3; }
+}
+
+@keyframes css_tbu01__animation_green {
+    from {
+        fill: green;
+    }
+    to {
+        fill: black;
+    }
+}
+.css_tube_display_none {
+	display : none !important;
+}
+.css_tbu01_00 {
+    
+    text-decoration: underline wavy red;
+    
+}
+.css_tbu01_01 {
+    color: green;
+	fill:  url(#linearGradientGreen) !important; //
+    text-decoration: underline wavy red;
+	
+    
+}
+.css_tbu01_02 {
+    color: red;
+	fill: url(#linearGradientRed) !important;
+    text-decoration: underline wavy red;
+    
+}
+.css_tbu01_03 {
+    color: green;
+	fill: url(#linearGradientGreen) !important;
+    text-decoration: underline wavy red;
+    animation: css_tbu01__blink 1s infinite ;
+}
+.css_tbu01_04 {
+    color: green;
+	fill: blue !important;
+    text-decoration: underline wavy red;
+    animation: css_tbu01__blink 1s infinite ;
+}
+

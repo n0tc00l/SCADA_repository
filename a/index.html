@@ -1,0 +1,63 @@
+<title>Alpine.js тест</title>
+<script defer src="/alpinejs.cdn.min.js"></script>
+<script src="/alpinejs-ws-transfer.js"></script>
+<link rel="stylesheet" href="default.css">
+
+<body x-data x-init="$store.request({
+    v: ['Z32_POS', 'Z32_OPEN', 'Z32_CLOSE', 'Z32_STATUS']
+  })">
+    <div>POS: <span id ="f45"  x-text="$store.v.Z32_POS.toFixed(2)">{}</span></div>
+	<div>STATE: <span id ="f45"  x-text="$store.v.Z32_STATUS">></span></div>
+    <div>OPEN: <span x-text="$store.v.Z32_OPEN"></span></div>
+    <div>CLOSE: <span x-text="$store.v.Z32_CLOSE"></span></div>
+	
+	<button type="submit"  id="roflan"  class="btn btn-primary">Add</button>
+	
+	<button type="submit" id="roflan1" class="btn btn-primary">Add</button>
+
+	<button type="submit" id="f045" class="btn btn-primary">SetAlp</button>
+       
+        
+
+	x-on:click="$store.ws.ws.send(JSON.stringify({action: 'write', data: 'PobrKO'}));" 
+	<script>
+	document.getElementById('roflan').addEventListener('click', function(event) {
+			//console.log('rrrrr');
+            event.preventDefault(); // Предотвращаем стандартное поведение кнопки
+			//console.log('111111');
+            //ws.send(JSON.stringify({action: 'message', data: {w:['PobrKO',1]}}));
+			ws.send(JSON.stringify({w:[['Z32_OPEN',1], ['Z32_CLOSE',0]]}));
+			//console.log('33333333');
+			}); // Вызываем функцию
+	document.getElementById('roflan1').addEventListener('click', function(event) {
+			//console.log('rrrrr');
+            event.preventDefault(); // Предотвращаем стандартное поведение кнопки
+			//console.log('111111');
+            //ws.send(JSON.stringify({action: 'message', data: {w:['PobrKO',1]}}));
+			ws.send(JSON.stringify({w:[['Z32_OPEN',0], ['Z32_CLOSE',1]]}));
+			//console.log('33333333');
+			}); // Вызываем функцию
+				
+document.getElementById('f045').addEventListener('click', function(event) {
+			console.log('rrrrr');
+            event.preventDefault(); // Предотвращаем стандартное поведение кнопки
+         
+
+
+
+//getClass() {
+//      const val = $store.v.;
+//      if (val === 1) return 'class-1';
+//      if (val === 2) return 'class-2';
+//      if (val >= 3 && val <= 5) return 'class-3-5';
+//      return 'default-class';
+//    }
+document.getElementById('f45').setAttribute('x-data', '{}'); // можно пустой объект, если не нужны локальные данные
+document.getElementById('f45').setAttribute(':class', '{ attention00: $store.v.Z32_STATUS===0, attention01: $store.v.Z32_STATUS===1, attention02: $store.v.Z32_STATUS===2, attention03: $store.v.Z32_STATUS===3}');
+//document.getElementById('f45').setAttribute(':class', '{ attention: true}');
+
+			}); // Вызываем функцию
+
+	 		
+	</script>
+</body>

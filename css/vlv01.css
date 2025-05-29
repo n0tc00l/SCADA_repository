@@ -1,0 +1,49 @@
+* {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+@keyframes css_vlv01__blink {
+    0%, 100% { opacity: 1; }
+	
+	50% { opacity: 0; }
+}
+
+@keyframes css_vlv01__animation_green {
+    from {
+        fill: green;
+    }
+    to {
+        fill: black;
+    }
+}
+.css_vlv01_00 {
+    color: red;
+	fill: red !important; //url(#linearGradientRed) 
+    text-decoration: underline wavy red;
+    
+}
+.css_vlv01_01 {
+    color: green;
+	fill:  green !important; //url(#linearGradientGreen)
+    text-decoration: underline wavy red;
+	
+    
+}
+.css_vlv01_02 {
+    color: red;
+	fill: red  !important; //url(#linearGradientRed)
+    text-decoration: underline wavy red;
+    animation: css_vlv01__blink 1s infinite  ;
+}
+.css_vlv01_03 {
+    color: green;
+	fill: green !important; //url(#linearGradientGreen)
+    text-decoration: underline wavy red;
+    animation: css_vlv01__blink 1s infinite ;
+}
+.css_vlv01_04 {
+    color: blue;
+	fill: blue !important;
+    text-decoration: underline wavy red;
+    animation: css_vlv01__blink 1s infinite ;
+}
+
